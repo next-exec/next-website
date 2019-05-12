@@ -1,57 +1,163 @@
-- name: Next Haunt
-  contact: haunt-exec@mit.edu
-  website: https://next.mit.edu/haunt
-  logo: nexthaunt.png
-  bg: nexthauntpic.png
-  description: Next Haunt creates and operates a real-life haunted escape the room game for the MIT community during Halloween season. It features physical adventures in which groups are locked in a room and must use elements in the room to solve a series of puzzles, find clues, and escape the room within a set time limit. Nexties design the house and the puzzles, build it, paint it, polish it, organize actors, and make sure runs happen. Join us for a truly sp0oOky adventure right in a house within Next House.
+- name: Next Act
+  contact: nact-exec@mit.edu
+  website: http://nextact.mit.edu
+  logo: nextact.png
+  bg: nextactpic.jpg
+  description: >
+    Next Act is our annual, student-run musical. Every year, we transform our
+    huge tastefully furnished lounge (TFL) on the first floor into an awesome
+    theater, and put on a great show for CPW. Everyone in the show - including
+    the actors, actresses, prod staff, and pit orchestra - are students from
+    Next and all around campus. There's a wide range of experience levels, too
+    - for some it's their first time being in a show, while others have been
+    in so many shows it's hard to keep count! Next Act is open to everyone,
+    and it's sure to be a lot of fun.
+- name: Next Anime
+  contact: next-anime-exec@mit.edu
+  logo: anime.png
+  bg: anime.jpg
+  description: >
+    Next Anime is a super chill, low commitment student group that meets
+    weekly to watch anime. We aim to watch 2 episodes of a current anime and 2
+    episodes of a finished airing anime every week. There are plenty of snacks
+    and plenty of fun. Shows we watch are determined by the members! Special
+    events take place at the start and end of the semester.
 - name: Next Art
   contact: next-art-exec@mit.edu
   website: http://nextart.mit.edu
   logo: nextart.png
   bg: nextartpic.jpg
-  description: Next Art is an art club at Next House that aims to create opportunities for Nexties to do art! We have art supplies that any Nextie can borrow and we also hold events throughout the semester such as art evenings, in which people work on personal art projects while eating snacks together, and workshops, in which a Nextie volunteers to teach others how to do an art thing. Next Art encompasses all sorts of visual arts, including arts and crafts with some visual component.
+  description: >
+    Next Art is an art club at Next House that aims to create opportunities
+    for Nexties to do art! We have art supplies that any Nextie can borrow and
+    we also hold events throughout the semester such as art evenings, in which
+    people work on personal art projects while eating snacks together, and
+    workshops, in which a Nextie volunteers to teach others how to do an art
+    thing. Next Art encompasses all sorts of visual arts, including arts and
+    crafts with some visual component.
+- name: Next BAD
+  contact: nextbad-exec@mit.edu
+  logo: bad.png
+  bg: bad.jpg
+  description: >
+    Next BAD is a group of Nexties that get together to play badminton every
+    week.
+- name: Next Bake
+  contact: next-bake-exec@mit.edu
+  logo: nextbake.png
+  bg: nextbakepic.jpg
+  description: >
+    Next Bake joins together Nexties that love baking and cooking together.
+    (And are occasionally responsible for feeding us delicious things.)
+- name: Next Big Thing
+  contact: next-big-exec@mit.edu
+  logo: nextbigthing.png
+  bg: nextbtpic.jpg
+  description: >
+    What's that in the courtyard? Every year Nexties in Next Big Thing build
+    *something* really big.
+- name: Next Code
+  contact: next-code-exec@mit.edu
+  logo: nextcode.png
+  bg: nextcodepic.jpg
+  description: >
+    Next-Code is a group of avid programmers who like putting together projects
+    and hosting workshops for the House.
 - name: Next Football Club
+  contact: nfc-exec@mit.edu
   website: https://sites.google.com/site/nextfootballclub
   logo: nextfc.png
   bg: nextfcpic.jpg
-  description: Next Football Club (Next FC) was founded to provide a competitive yet amiable soccer game to not only Nexties but any player who smiles at the idea of moving around some grass with a rubber sphere of air. Next FC is one of Next's largest student groups. Members regularly hold practice and play in leagues (and play their fair share of FIFA). Forza Next!
-- name: Next Act
-  website: http://nextact.mit.edu
-  logo: nextact.png
-  bg: nextactpic.jpg
-  description: Next Act is our annual, student-run musical. Every year, we transform our huge tastefully furnished lounge (TFL) on the first floor into an awesome theater, and put on a great show for CPW. Everyone in the show - including the actors, actresses, prod staff, and pit orchestra - are students from Next and all around campus. There's a wide range of experience levels, too - for some it's their first time being in a show, while others have been in so many shows it's hard to keep count! Next Act is open to everyone, and it's sure to be a lot of fun.
+  description: >
+    Next Football Club (Next FC) was founded to provide a competitive yet
+    amiable soccer game to not only Nexties but any player who smiles at the
+    idea of moving around some grass with a rubber sphere of air. Next FC is
+    one of Next's largest student groups. Members regularly hold practice and
+    play in leagues (and play their fair share of FIFA). Forza Next!
+- name: Next Gamers
+  contact: nextgamers-exec@mit.edu
+  website: https://next.mit.edu/nextgamers/
+  logo: gamers.png
+  bg: nextgamerspic.jpeg
+  description: >
+    Next Gamers are a group of Nexties who love to play video games or board
+    games. We provide everyone at Next House access to our large collection of
+    board and video games, and buy more every semester. We often have game
+    nights with snacks or themed game nights, so be sure to stop by!
+
+    Check out our list of games
+    [here](https://next.mit.edu/nextgamers/index.html).
+
+    Join our discord [here](https://discord.gg/eJbR22b) to suggest purchases,
+    look for other players, or just to chat!
+- name: Next Haunt
+  contact: haunt-exec@mit.edu
+  website: https://haunt.nextie.us
+  logo: nexthaunt.png
+  bg: haunt.png
+  description: >
+    Next Haunt creates and operates a real-life haunted escape the room game
+    for the MIT community during Halloween season. It features physical
+    adventures in which groups are locked in a room and must use elements in
+    the room to solve a series of puzzles, find clues, and escape the room
+    within a set time limit. Nexties design the house and the puzzles, build
+    it, paint it, polish it, organize actors, and make sure runs happen. Join
+    us for a truly sp0oOky adventure right in a house within Next House.
 - name: Next Make
+  contact: next-make-exec@mit.edu
   website: http://next-make.mit.edu
   github: https://github.com/Next-Make
   logo: nextmake.png
   bg: nextmakepic.jpg
-  description: Next-Make is a group dedicated to building cool, techie projects and generally furthering Mens et Manus at MIT. Past years' projects included the Next House Party Lighting System. Consisting of high-intensity color, white, and UV LED's and real-time music analysis software, the party lighting system was designed, built, wired, and coded completely from scratch by Next Make members who love electronics, software, and mechanical design. The lighting system premiered at the Next House Impulse party in February and drew over 500 students from across campus.
-- name: Next Service
-  logo: nextservice.png
-  bg: nextservicepic.jpg
-  description: Next Service is Next's friendly community service organization. The current focus is a partnership with CASPAR, which is a homeless shelter just off campus. Every other week, we buy food and cook a full meal for ~100 people. For Easter, we made care packages with candy, new socks and underwear, and a short, loving handwritten note for the CASPAR visitors. Some past projects include "Restaurhaunt" (a joint project with Next Haunt), sorting clothing donations with Cradles to Crayons, a talent show fundraiser, a pi day contest to raise money for Active Minds, and Charles River cleanups.
-- name: Next Sustain
-  logo: nextsustain.png
-  bg: nextsustainpic.jpg
-  description: Next Sustain is a group dedicated to building a sustainable community in Next House. We hold events and head initiatives to improve the energy, water, and waste management in the dorm while encouraging students to be more environmentally friendly in their daily lives.
-- name: Next Code
-  logo: nextcode.png
-  bg: nextcodepic.jpg
-  description: Next-Code is a group of avid programmers who like putting together projects and hosting workshops for the House.
-- name: Next Gamers
-  logo: nextgamers.png
-  bg: nextgamerspic.jpeg
-  description: Our video game and board game conoisseurs come together to play almost every week.
+  description: >
+    Next-Make is a group dedicated to building cool, techie projects and
+    generally furthering Mens et Manus at MIT. Past years' projects included
+    the Next House Party Lighting System. Consisting of high-intensity color,
+    white, and UV LED's and real-time music analysis software, the party
+    lighting system was designed, built, wired, and coded completely from
+    scratch by Next Make members who love electronics, software, and
+    mechanical design. The lighting system premiered at the Next House Impulse
+    party in February and drew over 500 students from across campus.
 - name: Next Quest
   contact: next-quest-exec@mit.edu
   logo: nextquest.png
   bg: nextquestpic.jpg
-  description: Next Quest is an adventurous student group dedicated to providing materials and structure to facilitate the playing of tabletop role-playing games at Next House. We primarily play Dungeons and Dragons Fifth Edition, but support all sorts of RPGs. We organize semester-long campaigns as well as one-offs. Roll for initiative and join!
-- name: Next Big Thing
-  logo: nextbigthing.png
-  bg: nextbtpic.jpg
-  description: What's that in the courtyard? Every year Nexties in Next Big Thing build <em>something</em> really big.
-- name: Next Bake
-  logo: nextbake.png
-  bg: nextbakepic.jpg
-  description: Next Bake joins together Nexties that love baking and cooking together. (And are occasionally responsible for feeding us delicious things.)
+  description: >
+    Next Quest is an adventurous student group dedicated to providing
+    materials and structure to facilitate the playing of tabletop
+    role-playing games at Next House. We primarily play Dungeons and Dragons
+    Fifth Edition, but support all sorts of RPGs. We organize semester-long
+    campaigns as well as one-offs. Roll for initiative and join!
+- name: Next Service
+  contact: next-service-exec@mit.edu
+  logo: nextservice.png
+  bg: nextservicepic.jpg
+  description: >
+    Next Service is Next's friendly community service organization. The
+    current focus is a partnership with CASPAR, which is a homeless shelter
+    just off campus. Every other week, we buy food and cook a full meal for
+    ~100 people. For Easter, we made care packages with candy, new socks and
+    underwear, and a short, loving handwritten note for the CASPAR visitors.
+    Some past projects include "Restaurhaunt" (a joint project with Next
+    Haunt), sorting clothing donations with Cradles to Crayons, a talent show
+    fundraiser, a pi day contest to raise money for Active Minds, and Charles
+    River cleanups.
+- name: Next Sing
+  contact: next-sing-exec@mit.edu
+  logo: sing.png
+  bg: sing.jpg
+  description: >
+    Next Sing’s goal is to provide a very-low-commitment, flexible musical
+    activity for all musically-inclined members of the MIT community. We
+    allow all genres of music, and all arrangements as long as they have a
+    singing focus. Overall, we hope to be a welcoming, relaxing musical
+    community.
+- name: Next Sustain
+  contact: next-sustain-exec@mit.edu
+  logo: nextsustain.png
+  bg: nextsustainpic.jpg
+  description: >
+    Next Sustain is a group dedicated to building a sustainable community in
+    Next House. We hold events and head initiatives to improve the energy,
+    water, and waste management in the dorm while encouraging students to be
+    more environmentally friendly in their daily lives.

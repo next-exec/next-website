@@ -2,11 +2,11 @@
 {% for group in site.data.studentgroups %}
   <div class="panel panel-default panel-sg">
     <div class="panel-heading" style="
-      background: url('/static/assets/bgds/{{ group.bg }}') no-repeat center center;
+      background: url('/static/assets/studentgroups/bg/{{ group.bg }}') no-repeat center center;
       background-size: cover;
     ">
       <div class="sg-logo">
-        <img src="/static/assets/logos/{{ group.logo }}"/>
+        <img src="/static/assets/studentgroups/logos/{{ group.logo }}"/>
       </div>
     </div>
     <div class="panel-body">
@@ -22,7 +22,7 @@
           <li><a href="{{ group.github }}">GitHub</a></li>
         {% endif %}
       </ul>
-      <p>{{ group.description }}</p>
+      <p>{{ group.description | newline_to_br | markdownify }}</p>
     </div>
   </div>
 {% endfor %}
