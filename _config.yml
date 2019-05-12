@@ -21,5 +21,8 @@ gems:
   - jekyll-feed
   - github-pages
 exclude:
+  - archive/
+  - deploy.sh
   - Gemfile
   - Gemfile.lock
+  - README.md
