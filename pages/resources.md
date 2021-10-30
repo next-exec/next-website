@@ -82,7 +82,7 @@ responsibilities and procedures.
 
 > Hi! I'm Cody. I'm a course 2 and a 2022 in 2E (2 many 2s). Feel free to come to me with any questions about Housing! I also do some singing and nacting so you can also talk to me if you want to squeal or sing at the top or bottom of your voice
 
-**Dining Chair:** J Swapnil Garg _[next-dining]_
+**Dining Chair:** Swapnil Garg _[next-dining]_
 ![swapnil]({{ site.url }}/static/assets/exec/Swapnil.png){: .execpic}
 
 > Hi! I'm Swapnil and I am your dining chair.
